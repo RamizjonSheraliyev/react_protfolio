@@ -21,7 +21,7 @@ const Contact = () => {
             <RiMessengerFill className="contact_option-icon" />
             <h4>Meesamger</h4>
             <h5> Telegram</h5>
-            <a href="https://t.me/Ramiz_kbr">Send a Message</a>
+            <a href="https://t.me/Scruzzzy">Send a Message</a>
           </article>
           <article className="contact_option">
             <BsWhatsapp className="contact_option-icon" />
